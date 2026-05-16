@@ -20,6 +20,7 @@
     <Folder Include="Entities\" />
     <Folder Include="Extentions\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Middleware\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
